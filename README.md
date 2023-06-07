@@ -1,5 +1,5 @@
 # ContactManager
-A Web API project to handle basic contact management actions. Solution follows the principles of clean architecture
+A Web API project to handle basic contact management actions using RESTful priniples. Solution follows the principles of clean architecture for better segregation of code.
 
 # Technology Stack Used
 1. .Net 6
