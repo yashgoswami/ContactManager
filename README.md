@@ -31,4 +31,4 @@ Unit Tests are writtent to test the code flow and coverage
  # Further improvements
  - Logging Middleware can be used to centralize the logging mechanism and log custom properties as well
  - Further endpoints can be introduced to enhance the features of contact management.
- - Unit test for Persistence layer can be added further
+ - Unit test for Persistence layer can be added further.
